@@ -1,3 +1,28 @@
+# 1.2.0 (2018-01-01)
+
+## New features
+
+- Use angular-cli 1.5 for the test app (Sune Wøller)
+- Model two way binding (Robert Wurm)
+
+# Bug fixes
+
+- Avoid circular imports (Sune Wøller)
+- Fix SchemaValidatorFactory providing (Daniele Pecora)
+
+# 1.1.0 (2017-11-06)
+
+## New features
+
+- Added support for multiple select (Gavin Foley)
+- Angular5 and Typescript 2.4.2 support
+
+# 1.0.1 (2017-09-12)
+
+# Bug fixes
+
+- FileWidget: fix file encoding (ebrehault)
+
 # 1.0.0-beta.13 (2017-09-08)
 
 ## New features
